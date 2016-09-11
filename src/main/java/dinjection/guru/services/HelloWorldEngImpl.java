@@ -11,6 +11,6 @@ import org.springframework.stereotype.Controller;
 public class HelloWorldEngImpl implements HelloWorldService {
     @Override
     public String getGreetings() {
-        return "Hellow World!";
+        return "Hellow World test git!";
     }
 }
